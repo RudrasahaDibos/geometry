@@ -16,6 +16,5 @@ const height = triangleHeightNumber;
    console.log(area)
 
 
-   const trianglArea = document.getElementById('triangl-area')
-   trianglArea.innerText = area
+   const trianglArea = document.get
 }
