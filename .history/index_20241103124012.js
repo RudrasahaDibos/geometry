@@ -1,3 +1,3 @@
 function clickForCalulatior(){
-   console.log('click ')
+   con
 }
