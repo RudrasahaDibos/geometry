@@ -1,0 +1,4 @@
+function ClickForRectCalulator(){
+
+}
+function getinputEle

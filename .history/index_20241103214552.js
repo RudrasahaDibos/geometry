@@ -19,5 +19,3 @@ const height = triangleHeightNumber;
    const trianglArea = document.getElementById('triangl-area')
    trianglArea.innerText = area
 }
-
-

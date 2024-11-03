@@ -6,7 +6,7 @@ function clickForCalulatior(){
      
      
 
-
+//    height
 const triangleHeightString = document.getElementById('triangle-height')
 const triangleHeightNumber = parseFloat(triangleHeightString.value)
 const height = triangleHeightNumber;
@@ -19,5 +19,3 @@ const height = triangleHeightNumber;
    const trianglArea = document.getElementById('triangl-area')
    trianglArea.innerText = area
 }
-
-
